@@ -10,10 +10,12 @@ import RxSwift
 class ViewController: UIViewController {
 
     private var userDetailsButton: UIButton!
-    private let meetupVM = MeetupViewModel()
+    private var meetupVM : MeetupViewModel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        meetupVM = MeetupViewModel()
         userDetailsButton = UIButton(frame: view.frame)
         
         let tapGesture = UITapGestureRecognizer(target: self,

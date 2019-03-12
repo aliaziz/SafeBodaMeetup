@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Safeboda/SafeBoda/SafeBoda/DI/DependencyInjection.swift"
-            timestampString = "574025938.6555459"
+            timestampString = "574061181.640787"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "36"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Safeboda/SafeBoda/SafeBoda/DI/DependencyInjection.swift"
-            timestampString = "574025938.655612"
+            timestampString = "574061181.640871"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "24"
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Safeboda/SafeBoda/SafeBoda/DI/DependencyInjection.swift"
-            timestampString = "574025938.655655"
+            timestampString = "574061181.640921"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
@@ -58,7 +58,7 @@
                   moduleName = "MeetupDemo"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/aliziwa/Documents/Safeboda/SafeBoda/SafeBoda/DI/DependencyInjection.swift"
-                  timestampString = "574025938.8573149"
+                  timestampString = "574061086.137049"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -73,7 +73,7 @@
                   moduleName = "MeetupDemo"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/aliziwa/Documents/Safeboda/SafeBoda/SafeBoda/DI/DependencyInjection.swift"
-                  timestampString = "574025938.860239"
+                  timestampString = "574061086.138672"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "32"
@@ -90,7 +90,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MeetupDemo/AppDelegate.swift"
-            timestampString = "574025938.6556979"
+            timestampString = "574061181.6409709"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "17"
@@ -106,13 +106,76 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MeetupDemo/AppDelegate.swift"
-            timestampString = "574025938.656021"
+            timestampString = "574061181.641019"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "22"
             endingLineNumber = "22"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeetupDemo/AppDelegate.swift"
+            timestampString = "574061181.641064"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeetupDemo.AppDelegate.window.getter : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "MeetupDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliziwa/Documents/LearningCode/MeetupDemo/MeetupDemo/AppDelegate.swift"
+                  timestampString = "574061086.1534261"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeetupDemo.AppDelegate.window.setter : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "MeetupDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliziwa/Documents/LearningCode/MeetupDemo/MeetupDemo/AppDelegate.swift"
+                  timestampString = "574061086.1550339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeetupDemo.AppDelegate.init() -&gt; MeetupDemo.AppDelegate"
+                  moduleName = "MeetupDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliziwa/Documents/LearningCode/MeetupDemo/MeetupDemo/AppDelegate.swift"
+                  timestampString = "574061086.156655"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
