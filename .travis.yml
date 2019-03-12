@@ -1,4 +1,4 @@
 
 language: swift
-xcode_project: MeetupDemo.xcodeproj
-xcode_scheme: MeetupDemoTests
+xcode_project: MeetupDemo.xcworkspace
+xcode_scheme: MeetupDemo
